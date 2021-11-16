@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IBE_Simulation.cpp">
+    <ClCompile Include="Regular_tetrahedron2OFF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PossionReconstruction.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
